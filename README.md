@@ -1,4 +1,4 @@
-# Covid-Data-Analysis-Using-SQL
+## Covid-Data-Analysis-Using-SQL
 
 # Covid-19 Data Exploration using SQL
 
